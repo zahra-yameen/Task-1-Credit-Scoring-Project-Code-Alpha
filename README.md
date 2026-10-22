@@ -58,7 +58,7 @@ learning purposes. It is not an official credit score and
 must not be used to make actual lending decisions.
 
 ## Author
-[Your Name]
+[ZAHRA YAMEEN]
 
 ## Deployment
 [Add your deployed Streamlit URL]
