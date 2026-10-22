@@ -61,5 +61,6 @@ must not be used to make actual lending decisions.
 [ZAHRA YAMEEN]
 
 ## Deployment
-[Add your deployed Streamlit URL]
+[https://task-1-credit-scoring-project-code-alpha-qm2ytuazkhrhe9dyvoigt.streamlit.app/]
+
 
